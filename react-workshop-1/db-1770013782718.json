@@ -1,0 +1,17 @@
+{
+  "tasks": [
+    {
+      "text": "Wash the dishes",
+      "day": "Tuesday 11am",
+      "reminder": true,
+      "completed": true,
+      "id": 1
+    },
+    {
+      "text": "Singing Practice",
+      "day": "Monday at 5:00 pm",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
