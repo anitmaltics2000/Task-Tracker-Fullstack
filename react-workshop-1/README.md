@@ -21,7 +21,7 @@ npm start
 
 The application will open at **http://localhost:3000**.
 
-> **Note:** Ensure the backend server is running on port 8000 for the application to function correctly.
+> **Note:** Ensure the backend server is already running on port 8000 before running the frontend for the application to function correctly.
 
 ## Features
 
